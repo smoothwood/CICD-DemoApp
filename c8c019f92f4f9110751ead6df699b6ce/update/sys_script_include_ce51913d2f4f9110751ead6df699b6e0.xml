@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_45354_cicd_demoa.CICDDemoApp_Script</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>CICDDemoApp_Script</name>
+        <script><![CDATA[var CICDDemoApp_Script = Class.create();
+CICDDemoApp_Script.prototype = {
+    initialize: function() {
+    },
+
+    type: 'CICDDemoApp_Script'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 11:27:46</sys_created_on>
+        <sys_id>ce51913d2f4f9110751ead6df699b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICDDemoApp_Script</sys_name>
+        <sys_package display_value="CICD DemoApp" source="x_45354_cicd_demoa">c8c019f92f4f9110751ead6df699b6ce</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="CICD DemoApp">c8c019f92f4f9110751ead6df699b6ce</sys_scope>
+        <sys_update_name>sys_script_include_ce51913d2f4f9110751ead6df699b6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 11:27:46</sys_updated_on>
+    </sys_script_include>
+</record_update>
